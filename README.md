@@ -2,9 +2,11 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+
 ### 👨‍💻 : About :
 
--  [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+-  [![Habr Badge](https://img.shields.io/badge/habr-habr-blue?style=flat&logo=HabrHabr&logoColor=white)](https://habr.com/ru/users/AlexisVaBel/)
+-  [![SOverflow Badge](https://img.shields.io/badge/stack-overflow-orange?style=flat&logo=StOverflow&logoColor=white)](https://stackoverflow.com/users/1228813/alexbee)
 
 ### :hammer_and_wrench: Languages and Tools :
 
