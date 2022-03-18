@@ -23,6 +23,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;  
 </div>
 
+### 🔥: Stats:
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexisVaBel&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 <!--
 **AlexisVaBel/AlexisVaBel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
