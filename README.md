@@ -8,7 +8,7 @@
 -  [![Habr Badge](https://img.shields.io/badge/habr-habr-blue?style=flat&logo=HabrHabr&logoColor=white)](https://habr.com/ru/users/AlexisVaBel/)
 -  [![SOverflow Badge](https://img.shields.io/badge/stack-overflow-orange?style=flat&logo=StOverflow&logoColor=white)](https://stackoverflow.com/users/1228813/alexbee)
 
-- 🔭 I’m currently working at UniscanResearch
+- 🤔 I’m currently working at UniscanResearch
 - 🔭 My hobby project is VSQ (qt based SCADA system)
 
 ### :hammer_and_wrench: Languages and tools :
