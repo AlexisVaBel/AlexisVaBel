@@ -10,6 +10,11 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 
+<div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 <!--
 **AlexisVaBel/AlexisVaBel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
