@@ -23,7 +23,7 @@
  <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;    
 
-### 🔥: Stats:
+### 🔥: Stats says that my stack is not as above 🤔, but nonetheless it`s my playground
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexisVaBel&theme=dark&background=000000)](https://git.io/streak-stats)
