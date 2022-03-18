@@ -8,7 +8,10 @@
 -  [![Habr Badge](https://img.shields.io/badge/habr-habr-blue?style=flat&logo=HabrHabr&logoColor=white)](https://habr.com/ru/users/AlexisVaBel/)
 -  [![SOverflow Badge](https://img.shields.io/badge/stack-overflow-orange?style=flat&logo=StOverflow&logoColor=white)](https://stackoverflow.com/users/1228813/alexbee)
 
-### :hammer_and_wrench: Languages :
+- 🔭 I’m currently working at UniscanResearch
+- 🔭 My hobby project is VSQ (qt based SCADA system)
+
+### :hammer_and_wrench: Languages and tools :
 
 <div>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;  
